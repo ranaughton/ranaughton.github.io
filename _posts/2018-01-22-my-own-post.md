@@ -2,7 +2,7 @@
 layout: post
 title:  "Islandora Meeting Notes"
 date:   2018-01-22
-categories: [ one, two, three ]
+categories: [ meetings, notes, test ]
 ---
 
 ## Apply your markdown knowledge!
