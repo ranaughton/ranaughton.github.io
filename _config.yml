@@ -7,7 +7,7 @@ title:            Test Website Islandora
 email:            example@example.com
 description:      Lorem ipsum dolor sit amet...
 url:              ''
-baseurl:          ''
+baseurl:          'https://ranaughton.github.io/'
 
 twitter_username: 
 github_username:  
