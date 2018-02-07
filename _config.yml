@@ -9,8 +9,8 @@ description:      Lorem ipsum dolor sit amet...
 url:              ''
 baseurl:          ''
 
-twitter_username: mariinyrop
-github_username:  mnyrop
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown:         kramdown
