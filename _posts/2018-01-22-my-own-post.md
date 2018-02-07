@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Writing My Own Post"
+title:  "Islandora Meeting Notes"
 date:   2018-01-22
 categories: [ one, two, three ]
 ---
