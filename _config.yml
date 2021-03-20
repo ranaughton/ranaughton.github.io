@@ -14,7 +14,7 @@ github_username:
 
 # Build settings
 markdown:         kramdown
-remote_theme:     LeNPaul/Millennial
+theme: jekyll-theme-minimal
 permalink:        pretty
 exclude:          [Gemfile*, vendor, README.md, docs]
 plugins:          [jekyll-feed]
