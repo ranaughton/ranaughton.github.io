@@ -22,5 +22,5 @@ github:           [metadata]
 
 header_pages:
   - about.md
-  - portfolio.md
+  - anotherpage.md
   - pages/newpage.md
