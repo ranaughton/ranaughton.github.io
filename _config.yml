@@ -19,3 +19,8 @@ permalink:        pretty
 exclude:          [Gemfile*, vendor, README.md, docs]
 plugins:          [jekyll-feed]
 github:           [metadata]
+
+header_pages:
+  - about.md
+  - portfolio.md
+  - pages/newpage.md
